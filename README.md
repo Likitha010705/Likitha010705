@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**Likitha010705/Likitha010705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Koppisetti Likitha Sai Prasanna
 
-Here are some ideas to get you started:
+## 🌸 About Me
+- 🎓 ECE Student
+- 🤖 Learning AI & Machine Learning
+- 💻 Learning DevOps & AWS
+- 🐍 Python Programmer
+- 🌐 Web Development Enthusiast
+- 🚀 Open to Internships
+- 📚 Passionate about building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- HTML
+- CSS
+- Git & GitHub
+- AWS (Learning)
+- DevOps (Learning)
+- Machine Learning (Learning)
+- Artificial Intelligence (Learning)
+
+## 🎯 Current Focus
+- AI & Machine Learning
+- AWS & DevOps
+- Python Projects
+- Building Portfolio Projects
+
+## 📫 Connect with Me
+- LinkedIn: Add your LinkedIn profile link here
+
+⭐ Always learning, always building.

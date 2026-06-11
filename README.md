@@ -28,6 +28,6 @@
 - Building Portfolio Projects
 
 ## 📫 Connect with Me
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: https://www.linkedin.com/in/koppisettilikitha
 
 ⭐ Always learning, always building.

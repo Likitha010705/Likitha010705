@@ -1,5 +1,5 @@
 # 💫 About Me:
---> Currently working on personal projects focused on Python and software development.<br><br>👯 Looking to collaborate on meaningful open-source and development projects.<br><br>🌱 Currently learning Data Structures & Algorithms, AI/Ml , DevOps practices.<br><br>💬 Ask me about Python, Git, GitHub, and problem solving.<br><br>⚡ Committed to continuous learning and building impactful technology solutions.
+--> Currently working on personal projects focused on Python and software development.<br><br>👯 Looking to collaborate on meaningful open-source and development projects.<br><br>🌱 Currently learning Data Structures & Algorithms, AI/ML , DevOps practices.<br><br>💬 Ask me about Python, Git, GitHub, and problem solving.<br><br>⚡ Committed to continuous learning and building impactful technology solutions.
 
 
 ## 🌐 Socials:
